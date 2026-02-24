@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "分かってないよ (Sped Up)",
+  "base_artist": "WurtS",
+  "createdAt": "2026-02-24T07:11:55.040462Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "分かってないよ",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/01_分かってないよ_WurtS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "分かってないよ",
+      "artist": "Your~Dead~Waifu",
+      "has_synced": false,
+      "path": "select/02_分かってないよ_Your~Dead~Waifu.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "分かってないよ - You Don’t Understand",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/03_分かってないよ_-_You_Don’t_Understand_WurtS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WurtS - 分かってないよ (Official Audio)",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/04_WurtS_-_分かってないよ_(Official_Audio)_WurtS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "分かってないよ",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_01_分かってないよ_WurtS.txt"
+    }
+  ]
+}
